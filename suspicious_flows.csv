@@ -1,0 +1,102 @@
+from_entity,to_entity,amount_usd,reason  
+E101,E102,450000,Consulting services  
+E103,E104,1100000,Technology acquisition  
+E105,E106,20000,Software license renewal  
+E107,E108,35000,Market research contract  
+E109,E110,150000,Shell transfer  
+E111,E112,220000,Intellectual property licensing  
+E113,E114,180000,Commission payment  
+E115,E116,50000,Service retainer  
+E117,E118,270000,Private equity dividend  
+E119,E120,800000,Franchise expansion  
+E121,E122,420000,Anomalous cash movement  
+E123,E124,90000,Research collaboration  
+E125,E126,1500000,Unexplained investment  
+E127,E128,675000,Debt repayment  
+E129,E130,145000,Strategic partnership  
+E131,E132,75000,Advisory fee  
+E133,E134,300000,Holding company funding  
+E135,E136,160000,Mergers & acquisition  
+E137,E138,90000,Brand licensing  
+E139,E140,115000,Supply chain advance  
+E141,E142,840000,Unusual loan  
+E143,E144,290000,Technology transfer  
+E145,E146,67000,Consultancy retainer  
+E147,E148,380000,Investment restructuring  
+E149,E150,525000,Shell transfer  
+E151,E152,100000,Service agreement  
+E153,E154,210000,Trade facilitation  
+E155,E156,33000,Network integration  
+E157,E158,890000,Unexplained investment  
+E159,E160,225000,Marketing campaign  
+E161,E162,175000,Strategic realignment  
+E163,E164,55000,Maintenance contract  
+E165,E166,440000,Unusual loan  
+E167,E168,195000,Product development  
+E169,E170,135000,Supply chain adjustment  
+E171,E172,210000,Capital realignment  
+E173,E174,95000,Contractor fees  
+E175,E176,720000,Shell transfer  
+E177,E178,110000,Training program  
+E179,E180,76000,Consulting retainer  
+E181,E182,89000,Supply support  
+E183,E184,350000,Technology upgrade  
+E185,E186,68000,Quality assurance  
+E187,E188,160000,Innovation fund  
+E189,E190,490000,Unusual loan  
+E191,E192,230000,R&D collaboration  
+E193,E194,59000,Service extension  
+E195,E196,82000,Brand development  
+E197,E198,90000,Legal settlement  
+E199,E200,310000,Shell transfer  
+E101,E104,120000,Market entry strategy  
+E102,E108,43000,Data services  
+E103,E109,900000,Unexplained investment  
+E105,E115,60000,Facility upgrade  
+E106,E124,170000,Innovation grant  
+E107,E126,550000,Shell transfer  
+E110,E119,280000,Asset acquisition  
+E111,E130,130000,Licensing fee  
+E112,E141,62000,Network expansion  
+E113,E147,210000,Unusual loan  
+E114,E152,430000,Technology integration  
+E116,E164,89000,Consultancy agreement  
+E117,E177,175000,Strategic investment  
+E118,E183,520000,Shell transfer  
+E120,E188,67000,Advisory support  
+E121,E192,350000,Research funding  
+E122,E194,80000,Project extension  
+E123,E200,1100000,Unusual loan  
+E125,E139,225000,Market expansion  
+E127,E143,470000,Shell transfer  
+E128,E153,76000,Technical support  
+E129,E161,290000,Investment restructuring  
+E131,E171,43000,Service agreement  
+E132,E178,180000,Innovation initiative  
+E133,E185,79000,Compliance support  
+E134,E189,440000,Unexplained investment  
+E135,E198,340000,Product launch  
+E136,E103,56000,Consultancy retainer  
+E137,E114,260000,Licensing agreement  
+E138,E127,77000,Market research  
+E140,E163,320000,Shell transfer  
+E142,E195,89000,Training workshop  
+E144,E179,210000,Investment realignment  
+E146,E187,43000,Service agreement  
+E148,E169,92000,Supply logistics  
+E150,E180,630000,Unexplained investment  
+E154,E191,88000,Brand partnership  
+E156,E197,150000,Shell transfer  
+E158,E201,73000,Data analytics  
+E160,E183,210000,Market development  
+E162,E199,450000,Equity investment  
+E166,E202,120000,Strategic retainer  
+E168,E203,380000,Technology transfer  
+E170,E204,90000,Service extension  
+E172,E205,550000,Unexplained investment  
+E174,E206,87000,Research collaboration  
+E176,E207,240000,Shell transfer  
+E178,E208,90000,Market entry fee  
+E180,E209,330000,Investment syndicate  
+E182,E210,210000,Anomalous cash movement  
+E184,E211,65000,Feasibility study 
